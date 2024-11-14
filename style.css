@@ -1,0 +1,67 @@
+body{
+    background-color:crimson;
+}
+
+.game{
+    display: flex;
+}
+
+.points{
+    font-size: 50px;
+}
+
+.col{
+    font-family: "Pacifico", cursive;
+    text-align: center;
+    width: 250px;
+    border-radius: 100%;
+    padding: 30px;
+    margin: 10px;
+    background-color:chartreuse;
+}
+
+h1{
+    justify-items: center;
+    align-items: center;
+    margin-left: 33.5%;
+    font-family: cursive;
+    font-size: 50px;
+    background-color:gold;
+    width: 500px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.container{
+    background-image: url('./Designer.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 550px;
+    height: 550px;
+    width: 550px;
+    display: grid;
+    grid-template-columns: 110px 110px 110px 110px 110px;
+    grid-template-rows: 110px 110px 110px 110px 110px;
+    margin-top:0%;
+    margin-left: 10%;
+    align-items: center;
+    justify-items: center;
+}
+
+.div{
+    margin: 10px;
+    width : 100px;
+    height: 100px;
+    background-color:white;
+    border-radius: 20%;
+    color: black;
+    font-size:xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    text-align: center;
+}
