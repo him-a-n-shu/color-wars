@@ -33,5 +33,5 @@ Color Wars is an interactive two-player web-based game where players take turns 
 - __CSS__: Styling and layout of the game.
 - __JavaScript__: Logic for gameplay mechanics, turn handling, and point tracking.
 
-##Acknowledgments
+## Acknowledgments
 - Inspired by classic grid-based strategy games.
